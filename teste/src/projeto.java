@@ -8,7 +8,9 @@ import java.util.Scanner;
             Scanner scanner = new Scanner(System.in);
             int score = 0;
             int total = 15;
-
+            
+            System.out.println("Nome da universidade");
+            System.out.println("Nome do aluno");
             System.out.println("Bem-vindo ao Quiz sobre One Piece!");
             System.out.println("Responda 15 perguntas sobre o tema.");
 
