@@ -9,9 +9,9 @@ import java.util.Scanner;
             int score = 0;
             int total = 15;
             
-            System.out.println("Nome do professor");
-            System.out.println("Nome da universidade");
-            System.out.println("Nome do aluno");
+            System.out.println("nome do prfessor; Breno pimenta");
+            System.out.println("Nome da universidade; Unifanap");
+            System.out.println("Nome do aluno; Matheus souza santos rezende");
             System.out.println("Bem-vindo ao Quiz sobre One Piece!");
             System.out.println("Responda 15 perguntas sobre o tema.");
 
