@@ -48,56 +48,56 @@ import java.util.Scanner;
         public static List<Questao> criarQuestoes() {
             List<Questao> questoes = new ArrayList<>();
 
-            questoes.add(new Questao("Qual o nome da akuma no MI do Luffy?",
+            questoes.add(new Questao("1 Qual o nome da akuma no MI do Luffy?",
                     "a) Pika Pika no MI", "b) Nikyu Nikyu no MI",
                     "c) Hito Hito no MI", "d) Magu Magu no MI", "c"));
 
-            questoes.add(new Questao("Quem é o comandante-chefe do Governo Mundial?",
+            questoes.add(new Questao("2 Quem é o comandante-chefe do Governo Mundial?",
                     "a) Kizaru", "b) Sengoku", "c) Aokiji", "d) Tsuru", "b"));
 
-            questoes.add(new Questao("Qual o nome da terra natal do Ace?",
+            questoes.add(new Questao("3 Qual o nome da terra natal do Ace?",
                     "a) South Blue", "b) North Blue", "c) East Blue",
                     "d) Vila Syrup", "a"));
 
-            questoes.add(new Questao("Qual desses personagens faz parte de One Piece?",
+            questoes.add(new Questao("4 Qual desses personagens faz parte de One Piece?",
                     "a) Mestre Kame", "b) Goku", "c) Nami", "d) Vegeta", "c"));
 
-            questoes.add(new Questao("Qual o nome da família do Sanji?",
+            questoes.add(new Questao("5 Qual o nome da família do Sanji?",
                     "a) Shimotsuki", "b) Vinsmoke", "c) Clã dos D",
                     "d) Lunares", "b"));
 
-            questoes.add(new Questao("Qual o nome do personagem principal de One Piece?",
+            questoes.add(new Questao("6 Qual o nome do personagem principal de One Piece?",
                     "a) Drácula", "b) Kaido", "c) Katakuri", "d) Luffy", "d"));
 
-            questoes.add(new Questao("Quem tem a maior recompensa entre os Mugiwaras?",
+            questoes.add(new Questao("7 Quem tem a maior recompensa entre os Mugiwaras?",
                     "a) Zoro", "b) Jinbe", "c) Nico Robin", "d) Brook", "a"));
 
-            questoes.add(new Questao("Qual o nome do avô do Luffy?",
+            questoes.add(new Questao("8 Qual o nome do avô do Luffy?",
                     "a) Kaido", "b) Zoro", "c) Katakuri", "d) Garp", "d"));
 
-            questoes.add(new Questao("Qual foi a primeira tripulação da Nami?",
+            questoes.add(new Questao("9 Qual foi a primeira tripulação da Nami?",
                     "a) Mugiwaras", "b) Piratas do Alonso",
                     "c) Marinha", "d) CP9", "a"));
 
-            questoes.add(new Questao("Qual o nome do navio do Luffy?",
+            questoes.add(new Questao("10 Qual o nome do navio do Luffy?",
                     "a) Going Merry", "b) Thousand Sunny",
                     "c) Oro Jackson", "d) Red Force", "b"));
 
-            questoes.add(new Questao("Quem é conhecido como o 'Rei dos Piratas'?",
+            questoes.add(new Questao("11 Quem é conhecido como o 'Rei dos Piratas'?",
                     "a) Barba Branca", "b) Roger",
                     "c) Shanks", "d) Kaido", "b"));
 
-            questoes.add(new Questao("Quem é o espadachim da tripulação?",
+            questoes.add(new Questao("12 Quem é o espadachim da tripulação?",
                     "a) Sanji", "b) Zoro", "c) Usopp", "d) Jinbe", "b"));
 
-            questoes.add(new Questao("Qual é o sonho do Luffy?",
+            questoes.add(new Questao("13 Qual é o sonho do Luffy?",
                     "a) Ser o maior espadachim", "b) Encontrar All Blue",
                     "c) Ser o Rei dos Piratas", "d) Dominar os mares", "c"));
 
-            questoes.add(new Questao("Qual o nome do vilão da saga Arlong?",
+            questoes.add(new Questao("14 Qual o nome do vilão da saga Arlong?",
                     "a) Crocodile", "b) Buggy", "c) Arlong", "d) Smoker", "c"));
 
-            questoes.add(new Questao("Quem tem o apelido de 'Nariz de Mentiroso'?",
+            questoes.add(new Questao("15 Quem tem o apelido de 'Nariz de Mentiroso'?",
                     "a) Usopp", "b) Brook", "c) Chopper", "d) Franky", "a"));
 
             return questoes;
